@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Estudos_C_Sharp/1.0.0": {
+        "runtime": {
+          "Estudos_C_Sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estudos_C_Sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
